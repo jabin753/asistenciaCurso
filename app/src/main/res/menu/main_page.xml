@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/accion_setting"
+        android:orderInCategory="100"
+        android:title="Exportar datos"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/importarDatos"
+        android:orderInCategory="100"
+        android:title="Importar datos"
+        app:showAsAction="never" />
+
+
+</menu>
